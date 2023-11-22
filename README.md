@@ -11,7 +11,7 @@ The Product Gallery Carousel Plugin is a WordPress plugin designed to enhance th
 
 ## Installation
 
-1. Download the plugin ZIP file from the [GitHub repository](https://github.com/your-username/product-gallery-carousel).
+1. Download the plugin ZIP file from the [GitHub repository](https://github.com/TimeBombe/Woocommerce-Product-Gallery-Carousel/tree/main).
 2. Log in to your WordPress admin panel.
 3. Navigate to "Plugins" > "Add New."
 4. Click on the "Upload Plugin" button.
