@@ -1,0 +1,15 @@
+/* Custom styles for the product gallery carousel */
+.owl-carousel {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.owl-item {
+    width: 100%; /* Adjust the width of each item as needed */
+}
+
+.owl-item img {
+    width: 100%; /* Make sure images fill the container */
+}
+
+/* Add any other custom styles as needed */
